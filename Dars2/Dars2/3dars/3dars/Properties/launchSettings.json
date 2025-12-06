@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "3dars": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
