@@ -87,11 +87,11 @@
             //int a = int.Parse(Console.ReadLine());
 
             //Console.Write("b = ");
-            //int b = int.Parse(Console.ReadLine());  
+            //int b = int.Parse(Console.ReadLine());
 
             //for (int i = a; i <= b; i++)
             //{
-            //    if(i % 4 == 0 && i % 7 == 0)
+            //    if (i % 4 == 0 && i % 7 == 0)
             //    {
             //        Console.WriteLine(i);
             //    }
@@ -391,7 +391,14 @@
             //}
             //Console.WriteLine("1 dan 100 gacha juft sonlar yig'indisi: " + sumEven);
 
-            
+
+
+
+
+
+
+
+
 
         }
     }

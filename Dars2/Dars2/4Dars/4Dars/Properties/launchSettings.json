@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "4Dars": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
