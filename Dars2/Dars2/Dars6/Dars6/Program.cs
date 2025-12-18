@@ -97,7 +97,7 @@
             //}
 
             //6
-            // 1 ta son: 1 dan shu songacha
+            
             //static long multiplication(int a)
             //{
             //    long result = 1;
@@ -106,7 +106,7 @@
             //    return result;
             //}
 
-            //// 2 ta son: oraliq
+           
             //static long multiplication(int a, int b)
             //{
             //    long result = 1;
@@ -115,7 +115,6 @@
             //    return result;
             //}
 
-            //// 3 ta son: o‘zaro ko‘paytma
             //static long multiplication(int a, int b, int c)
             //{
             //    return (long)a * b * c;
