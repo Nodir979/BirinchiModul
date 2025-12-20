@@ -10,6 +10,178 @@ namespace Dars10
 
 
 
+            //Dubai dubai1 = new Dubai()
+            //{
+            //    States = "Us",
+            //    population = "5mln",
+            //    location = "northern",
+            //    kv = 10000,
+            //    city = "amerika",
+            //};
+
+            //Dubai dubai2 = new Dubai()
+            //{
+            //    States = "polsha",
+            //    population = "7mln",
+            //    location = "northern",
+            //    kv = 10000,
+            //    city = "turkiy",
+            //};
+
+            //Dubai dubai3 = new Dubai()
+            //{
+            //    States = "pekin",
+            //    population = "4mln",
+            //    location = "northern",
+            //    kv = 10000,
+            //    city = "turkiy",
+            //};
+
+            //Dubai dubai4 = new Dubai();
+            //dubai4.States = "polsha";
+            //dubai4.population = "3mln";
+            //dubai4.location = "northern";
+            //dubai4.kv = 20000;
+            //dubai4.city = "turkiy";
+
+            //Dubai dubai5 = new Dubai();
+            //dubai5.States = "parij";
+            //dubai5.population = "6mln";
+            //dubai5.location = "northern";
+            //dubai5.kv = 20000;
+            //dubai5.city = "Newyourk";
+
+
+            //< *****************************************************************>
+
+
+            //phone phone1 = new phone()
+            //{
+            //    function = "manage",
+            //    number = "1283.393",
+            //    Music = "listening",
+            //    call =  "talk",
+            //    lamp = "white"
+            //};
+
+            //phone phone2 = new phone()
+            //{
+            //    function = "manage",
+            //    number = "1283.393",
+            //    Music = "listening",
+            //    call =  "talk",
+            //    lamp = "white"
+            //};
+
+            //phone phone3 = new phone()
+            //{
+            //    function = "manage",
+            //    number = "1283.393",
+            //    Music = "listening",
+            //    call =  "talk",
+            //    lamp = "white"
+            //};
+
+            //phone phone4 = new phone();
+            //phone4.function = "manace";
+            //phone4.number = "342422";
+            //phone4.Music = "listening";
+            //phone4.call = "talk";
+            //phone4.lamp = "white";
+
+            //phone phone5 = new phone();
+            //phone4.function = "manace";
+            //phone4.number = "342422";
+            //phone4.Music = "listening";
+            //phone4.call = "talk";
+            //phone4.lamp = "white";
+
+
+            //< *****************************************************************>
+
+
+            //State state1 = new State()
+            //{
+            //    States = "Us",
+            //    population = "5mln",
+            //    location = "northern",
+            //    kv = 10000,
+            //    city = "amerika",
+            //};
+
+            //State state2 = new State()
+            //{
+            //    States = "polsha",
+            //    population = "7mln",
+            //    location = "northern",
+            //    kv = 10000,
+            //    city = "turkiy",
+            //};
+
+            //State state3 = new State()
+            //{
+            //    States = "pekin",
+            //    population = "4mln",
+            //    location = "northern",
+            //    kv = 10000,
+            //    city = "turkiy",
+            //};
+
+            //State state4 = new State();
+            //state4.States = "polsha";
+            //state4.population = "3mln";
+            //state4.location = "northern";
+            //state4.kv = 20000;
+            //state4.city = "turkiy";
+
+            //State state5 = new State();
+            //state4.States = "parij";
+            //state4.population = "6mln";
+            //state4.location = "northern";
+            //state4.kv = 20000;
+            //state4.city = "Newyourk";
+
+
+            //< *****************************************************************>
+
+
+            //Remote remote1 = new Remote()
+            //{
+            // Function = "manage",
+            // Buttons = 27,
+            // Distance = 7,
+            // Color = "red",
+            //};
+
+            //Remote remote2 = new Remote()
+            //{
+            // Function = "manage",
+            // Buttons = 33,
+            // Distance = 4,
+            // Color = "yellow",
+            //};
+
+            //Remote remote3 = new Remote()
+            //{
+            // Function = "manage",
+            // Buttons = 28,
+            // Distance = 8,
+            // Color = "black",
+            //};
+
+            //Remote remote4 = new Remote();
+            //remote4.Function = "manage";
+            //remote4.Buttons = 22;
+            //remote4.Distance = 4;
+            //remote4.Color = "green";
+
+            //Remote remote5 = new Remote();
+            //remote4.Function = "manage";
+            //remote4.Buttons = 26;
+            //remote4.Distance = 21;
+            //remote4.Color = "green";
+
+
             //< *****************************************************************>
 
 
